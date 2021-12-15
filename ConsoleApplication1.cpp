@@ -5,8 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello　world!\n";
-    std::cout << "プッシュの追加\n";
+    std::cout << "コンフリクト解決!\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
